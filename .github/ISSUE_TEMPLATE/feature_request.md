@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 **What is your feature?**
-Describe exactly where and what the feature should be.
+Games like scratchamophobia
 
 **Why should we add this feature?**
-Write in clear and concise sentences.
+because I want something to do on the OS other than flick betgween light and dark mode
 
 **Why do you want to add this feature?**
-Write exact, so not "because I want to"
+because I want something to do on the OS other than flick between light and dark mode please
